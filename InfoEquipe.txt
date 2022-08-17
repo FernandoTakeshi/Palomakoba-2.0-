@@ -4,9 +4,9 @@ Equipe: A
 (SM)
 Scrum Master: Relinton Pinheiro
 
-Desenvolvedor: Fernando Marques Ferreira
-Habilidades: Linguagem C
-Experiência: Linguagem C, HTML5, CSS3.
+Desenvolvedor: Fernando Marques Ferreira.
+Habilidades: Linguagem C.
+Experiência: Linguagem C, HTML5, CSS3, aprendendo JAVA.
 
 Desenvolvedor: (Nome aqui)
 Habilidades: 
